@@ -27,3 +27,6 @@ Contributions to improve the database index or add new phone models and parts ar
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+## Tags
+
+#mobile #shop #phone #parts #inventory #inventorymanagement #pointofsale #database #index #repair #maintenance
